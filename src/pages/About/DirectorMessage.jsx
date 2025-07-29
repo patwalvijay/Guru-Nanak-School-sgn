@@ -39,7 +39,7 @@ const DirectorMessage = () => {
               <div className="space-y-6 text-gray-700 leading-relaxed">
                 <div className="md:float-right md:w-3/6 md:ml-8 mb-6">
                   <img
-                    src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGlyZWN0b3J8ZW58MHx8MHx8fDA%3D"
+                    src="https://media.istockphoto.com/id/517998264/vector/male-user-icon.jpg?s=612x612&w=0&k=20&c=4RMhqIXcJMcFkRJPq6K8h7ozuUoZhPwKniEke6KYa_k="
                     alt="Director"
                     className="rounded-xl shadow-lg object-cover aspect-square w-full h-auto"
                   />
