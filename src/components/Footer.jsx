@@ -5,10 +5,10 @@ import {
   MapPin,
   MessageCircle,
   Phone,
+  Mail,
   Twitter,
 } from "lucide-react";
 import { Link } from "react-router-dom";
-
 
 const Footer = () => {
   const aboutLinks = [
@@ -53,7 +53,7 @@ const Footer = () => {
                 Shri Guru Nanak Doon Vale School
               </h3>
               <p className="text-gray-200 mb-4 leading-relaxed">
-                Established in 1989, providing quality education for over three
+                Established in 1993, providing quality education for over three
                 decades. A trusted co-educational institution in Dehradun.
               </p>
 
@@ -62,16 +62,25 @@ const Footer = () => {
                 <div className="flex items-center">
                   <Phone className="w-5 h-5 mr-3 flex-shrink-0" />
                   <a
-                    href="tel:+919412054169"
+                    href="tel:+917895336446"
                     className="hover:text-[#FFA700] transition-colors"
                   >
-                    +91 9412054169
+                    +91 7895336446
+                  </a>
+                </div>
+                <div className="flex items-center">
+                  <Phone className="w-5 h-5 mr-3 flex-shrink-0" />
+                  <a
+                    href="tel:+919927229456"
+                    className="hover:text-[#FFA700] transition-colors"
+                  >
+                    +91 9927229456
                   </a>
                 </div>
                 <div className="flex items-center">
                   <MessageCircle className="w-5 h-5 mr-3 flex-shrink-0" />
                   <a
-                    href="https://wa.me/+919412054169"
+                    href="https://wa.me/+917895336446"
                     className="hover:text-[#FFA700] transition-colors"
                   >
                     WhatsApp Us
@@ -118,19 +127,15 @@ const Footer = () => {
                   </li>
                 ))}
                 <li key={"123"}>
-               
-<Link to={'/Mandatory-public-disclosure'}>
-
-
-                  <a
-                    // href={"/pdf/brochure.pdf"}
-                    // download={"Mandatory-Public-Disclosure"}
-                    className="text-gray-200 hover:text-[#FFA700] transition-colors text-sm"
-                  >
-                    Mandatory Public Disclosure
-                  </a>
-</Link>
-           
+                  <Link to={"/Mandatory-public-disclosure"}>
+                    <a
+                      // href={"/pdf/brochure.pdf"}
+                      // download={"Mandatory-Public-Disclosure"}
+                      className="text-gray-200 hover:text-[#FFA700] transition-colors text-sm"
+                    >
+                      Mandatory Public Disclosure
+                    </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -162,6 +167,10 @@ const Footer = () => {
                   <p>Summer: 7:30 AM - 1:30 PM</p>
                   <p>Winter: 8:30 AM - 2:30 PM</p>
                 </div>
+              </div>
+              <div className="flex items-center mt-3">
+                <Mail className="w-5 h-5 mr-3 flex-shrink-0" />
+                <p className="">Sgnschool555@gmail.com</p>
               </div>
             </div>
           </div>

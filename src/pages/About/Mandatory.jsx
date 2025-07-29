@@ -107,16 +107,12 @@ const Mandatory = () => {
                     </tr>
                     <tr>
                       <td class="border px-4 py-2">3</td>
-                      <td class="border px-4 py-2 uppercase">
-                        TGT
-                      </td>
+                      <td class="border px-4 py-2 uppercase">TGT</td>
                       <td class="border px-4 py-2">08</td>
                     </tr>
                     <tr>
                       <td class="border px-4 py-2">4</td>
-                      <td class="border px-4 py-2 uppercase">
-                        PRT
-                      </td>
+                      <td class="border px-4 py-2 uppercase">PRT</td>
                       <td class="border px-4 py-2">11</td>
                     </tr>
                     <tr>
@@ -133,7 +129,11 @@ const Mandatory = () => {
                         <p>
                           Mrs. Ramandeep Kaur
                           <br />
-                          Contact no.<a className="text-blue-700" href="tel:+919927229456"> 9927229456</a>
+                          Contact no.
+                          <a className="text-blue-700" href="tel:+919927229456">
+                            {" "}
+                            9927229456
+                          </a>
                         </p>
                       </td>
                     </tr>
@@ -148,8 +148,8 @@ const Mandatory = () => {
                           <br />
                           Contact no.{" "}
                           <a
-                          className="text-blue-700"
-                            href="tel:+919897089269"
+                            className="text-blue-700"
+                            href="tel:+919937089269"
                             title="Call Mrs. Harvinder Kaur"
                           >
                             9897089269
@@ -532,7 +532,6 @@ const Mandatory = () => {
                         </a>
                       </td>
                     </tr>
-                    
                   </tbody>
                 </table>
               </div>
