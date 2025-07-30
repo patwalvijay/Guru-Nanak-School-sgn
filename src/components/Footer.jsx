@@ -53,7 +53,7 @@ const Footer = () => {
                 Shri Guru Nanak Doon Vale School
               </h3>
               <p className="text-gray-200 mb-4 leading-relaxed">
-                Established in 1993, providing quality education for over three
+                Established in 1989, providing quality education for over three
                 decades. A trusted co-educational institution in Dehradun.
               </p>
 

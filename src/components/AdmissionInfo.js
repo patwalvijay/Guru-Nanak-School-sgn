@@ -21,14 +21,10 @@ function AdmissionInfo() {
         </div>
         <div className=" ">
           <div className="">
-            <img
-              className="image1 ml-[-25px]"
-              src="img/Screenshot 2022-12-02 at 11.58.06 PM.png"
-              alt=""
-            />
+            <img className="image1 ml-[-25px]" src="img/admiproc.png" alt="" />
             <img
               className="image2 ml-[-20px]"
-              src="img/Screenshot 2022-12-03 at 12.04.36 AM.png"
+              src="img/admiprocmob.png"
               alt=""
             />
           </div>

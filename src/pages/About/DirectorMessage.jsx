@@ -10,13 +10,13 @@ const DirectorMessage = () => {
           {/* Header */}
           <section className="relative h-[60vh] w-full">
             <img
-              src="image/Pasted Graphic_1.jpg"
+              src="img/school_hor-4.JPG"
               alt="Director Message Background"
               className="object-cover w-full h-full"
             />
             <div className="absolute inset-0 bg-black/50 flex flex-col justify-center items-center px-4">
               <h1 className="text-white text-4xl md:text-5xl font-bold mb-3 text-center">
-                Director’s Message
+                Secretary Message
               </h1>
               <p className="text-white hidden text-lg md:text-xl text-center max-w-2xl">
                 “True education nurtures both the intellect and the soul.”
@@ -27,19 +27,19 @@ const DirectorMessage = () => {
           {/* Content */}
           <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
             {/* Quote */}
-            <div className="text-center mb-12">
+            {/* <div className="text-center mb-12">
               <Quote className="w-12 h-12 text-[#990000] mx-auto mb-4" />
               <blockquote className="text-2xl sm:text-3xl font-semibold text-gray-800 italic">
                 "True education nurtures both the intellect and the soul."
               </blockquote>
-            </div>
+            </div> */}
 
             {/* Message Content */}
             <div className="prose prose-lg max-w-none">
               <div className="space-y-6 text-gray-700 leading-relaxed">
                 <div className="md:float-right md:w-3/6 md:ml-8 mb-6">
                   <img
-                    src="https://media.istockphoto.com/id/517998264/vector/male-user-icon.jpg?s=612x612&w=0&k=20&c=4RMhqIXcJMcFkRJPq6K8h7ozuUoZhPwKniEke6KYa_k="
+                    src="img/director.jpg"
                     alt="Director"
                     className="rounded-xl shadow-lg object-cover aspect-square w-full h-auto"
                   />
@@ -89,7 +89,7 @@ const DirectorMessage = () => {
               </div>
 
               {/* Signature */}
-              <div className="mt-12 pt-8 border-t border-gray-200">
+              {/* <div className="mt-12 pt-8 border-t border-gray-200">
                 <div className="text-right">
                   <p className="font-semibold text-gray-800">Warm regards,</p>
                   <p className="font-bold text-[#990000] text-lg mt-2">
@@ -100,7 +100,7 @@ const DirectorMessage = () => {
                     Shri Guru Nanak Doon Vale School
                   </p>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

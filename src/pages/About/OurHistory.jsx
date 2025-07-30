@@ -10,7 +10,7 @@ const OurHistory = () => {
           {/* Hero */}
           <section className="relative h-[60vh] w-full">
             <img
-              src="image/Pasted Graphic_1.jpg"
+              src="img/school_hor-5.JPG"
               alt="School heritage"
               className="object-cover w-full h-full"
             />
@@ -26,22 +26,30 @@ const OurHistory = () => {
           <section className="py-16 px-6 max-w-6xl mx-auto">
             <div className="w-full max-w-3xl mx-auto text-center space-y-8">
               <p className="text-[#990000] text-2xl md:text-3xl font-semibold mb-4 text-center">
-                A Legacy of Excellence Since 1993
+                A Legacy of Excellence Since 1989
               </p>
               <p className="text-lg leading-relaxed ">
-                The foundation of Shri Guru Nanak Doon Vale School was laid on
-                16th July 1993, marking the beginning of a visionary journey in
-                education. The school’s roots trace back to a strong commitment
-                to academic excellence, character building, and inclusive
-                learning.
+                The foundation of this esteemed institution was laid on 16th
+                July 1989, when a humble dream took shape. It was on this very
+                date that the first brick was placed on the land by the managing
+                members of Shri Guru Nanak Public Shiksha Samiti — a society
+                formed with a strong desire to provide accessible, value-based
+                education in the Cantonment area of Dehradun. The site chosen
+                was undeveloped, yet brimming with hope and potential. With no
+                grand structures in place, just the noble intention to serve the
+                community, the journey of building the school began.
               </p>
 
               <p className="text-lg leading-relaxed">
-                Our foundation stone was laid by Sant Baba Harbans Singh Ji,
-                whose guidance and blessings gave shape to this noble
-                initiative. The school was formally inaugurated by Hon'ble Shri
-                N.D. Tewari, former Chief Minister of Uttar Pradesh, adding
-                further significance and pride to our establishment.
+                After four years of committed effort, the dream finally took
+                concrete shape. On 4th July 1993, Shri Guru Nanak Doon Vale
+                School opened its doors to students for the very first time.
+                What began as a modest institution started its academic journey
+                with limited resources but limitless hope. The opening was
+                marked with simplicity, but the occasion held profound
+                significance for the community. Parents, teachers, and
+                volunteers saw in this school a new opportunity for future
+                generations.
               </p>
 
               <p className="text-lg leading-relaxed">

@@ -149,7 +149,7 @@ const Mandatory = () => {
                           Contact no.{" "}
                           <a
                             className="text-blue-700"
-                            href="tel:+919937089269"
+                            href="tel:+919897089269"
                             title="Call Mrs. Harvinder Kaur"
                           >
                             9897089269

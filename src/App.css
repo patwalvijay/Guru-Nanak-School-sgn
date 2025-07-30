@@ -8,7 +8,7 @@
 }
 
 .background1 {
-  background-image: url("../public/img/school_hor-4.JPG");
+  background-image: url("../public/img/testionialBG.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   /* width: 100em; */
@@ -152,7 +152,7 @@
 
 .testimonial-section {
   position: relative;
-  background: url("../public/img/rectangle-631@2x.png");
+  background: url("../public/img/testionialBG.jpg");
   width: 100%;
   background-size: cover;
   background-position: center center;

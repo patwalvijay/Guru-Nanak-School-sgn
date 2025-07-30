@@ -123,7 +123,7 @@ MAYO COLLEGE GIRLS’ SCHOOL */}
             <p className="mb-8 leading-relaxed text-white  text-justify">
               Welcome to Shri Guru Nanak Doon Vale School, one of the most
               trusted and respected co-educational schools in Dehradun since
-              1993. With a legacy of academic excellence and holistic
+              1989. With a legacy of academic excellence and holistic
               development, we are dedicated to nurturing confident, responsible,
               and well-rounded individuals. Our school offers structured
               education from Pre-Nursery to Class VIII, blending modern teaching
