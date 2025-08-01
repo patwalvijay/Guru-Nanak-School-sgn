@@ -10,7 +10,7 @@ const DirectorMessage = () => {
           {/* Header */}
           <section className="relative h-[60vh] w-full">
             <img
-              src="img/school_hor-4.JPG"
+              src="img/moreabout.jpg"
               alt="Director Message Background"
               className="object-cover w-full h-full"
             />

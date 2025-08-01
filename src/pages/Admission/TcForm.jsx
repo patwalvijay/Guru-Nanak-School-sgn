@@ -1,27 +1,25 @@
-import React from 'react'
-import Hero from '../../components/Global/Hero'
-import DownloadButton from '../../components/Global/DownloadButton'
-import Layout from '../../components/Layout'
+import React from "react";
+import Hero from "../../components/Global/Hero";
+import DownloadButton from "../../components/Global/DownloadButton";
+import Layout from "../../components/Layout";
 
 const TcForm = () => {
   return (
     <>
-    <Layout>
-    <div>
-        <Hero title={"TC Form"} icon={""}/>
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-            
-
+      <Layout>
+        <div>
+          <Hero title={"TC Form"} icon={""} />
+          <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
             {/* Message Content */}
             <div className="prose prose-lg max-w-none">
               <div className="space-y-6 text-gray-700 leading-relaxed">
-                <div className="md:float-right md:w-3/6 md:ml-8 mb-6">
+                {/* <div className="md:float-right md:w-3/6 md:ml-8 mb-6">
                   <img
                     src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGlyZWN0b3J8ZW58MHx8MHx8fDA%3D"
                     alt="Director"
                     className="rounded-xl shadow-lg object-cover aspect-square w-full h-auto"
                   />
-                </div>
+                </div> */}
                 <p>
                   Education is the most powerful tool we can offer the next
                   generation—a tool that not only shapes intellect but also
@@ -64,16 +62,16 @@ const TcForm = () => {
                   Thank you for being a part of this journey. We look forward to
                   shaping bright futures, together.
                 </p>
-                <div className='pt-4'>
-                    <DownloadButton buttonText="TC Form"/>
+                <div className="pt-4">
+                  <DownloadButton buttonText="TC Form" />
                 </div>
               </div>
             </div>
           </div>
-    </div>
-    </Layout>
+        </div>
+      </Layout>
     </>
-  )
-}
+  );
+};
 
-export default TcForm
+export default TcForm;

@@ -8,7 +8,7 @@ function About() {
   }, []);
   return (
     <Layout className="  ">
-      <Hero src={"img/school_hor-4.JPG"} title={"About Us"} />
+      <Hero src={"img/testionialBG.jpg"} title={"About Us"} />
       <div className="">
         <section className="bg-white  mt-[4em]">
           <div className="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
@@ -42,7 +42,7 @@ function About() {
             <div className=" lg:mt-0 lg:col-span-5 lg:flex">
               <img
                 className=" md:w-[80%]"
-                src="img/school_Vertical_1.JPG"
+                src="img/moreabout.jpg"
                 alt="mockup"
               />
             </div>

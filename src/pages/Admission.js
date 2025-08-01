@@ -10,20 +10,16 @@ function Admission() {
   return (
     <Layout className="  ">
       <div className=" ">
-        <div className="container mx-auto hidden">
+        {/* <div className="container mx-auto hidden">
           <div className=" flex justify-center">
             <img
               class="md:max-w-[100%] max-w-[90%] h-auto my-[92px] md:my-[139px]"
-              src="img/school.JPG.jpg"
+              src="img/admission.jpg"
               alt="image description"
             />
           </div>
-        </div>
-        <Hero
-          title={"Admission"}
-          src={"image/Pasted Graphic 4_1.jpg"}
-          isIcon={false}
-        />
+        </div> */}
+        <Hero title={"Admission"} src={"img/admission.jpg"} isIcon={false} />
 
         <section className="bg-white  mt-[4em]">
           <div className="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
@@ -32,7 +28,9 @@ function Admission() {
                 About
                 <span className="text-[#990000]"> Admission</span>
               </h1>
-              <h1 className=" mb-5 font-medium">ADMISSION INFORMATION</h1>
+              <h1 className=" mb-5 font-large sm:text-2xl text-xl font-bold ">
+                ADMISSION INFORMATION
+              </h1>
               <p className="max-w-2xl mb-6  text-black lg:mb-8 md:text-lg lg:text-[15px] text-justify">
                 We welcome new admissions from Pre-Nursery to Class VIII for the
                 upcoming academic session. At Shri Guru Nanak Doon Vale School,
@@ -56,7 +54,7 @@ function Admission() {
             <div className=" lg:mt-0 lg:col-span-5 lg:flex">
               <img
                 className=" md:w-[80%]"
-                src="image/Pasted Graphic 5_1.jpg"
+                src="img/admission.jpg"
                 alt="mockup"
               />
             </div>

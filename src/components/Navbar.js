@@ -14,7 +14,7 @@ function Navbar() {
   const aboutMenu = [
     { title: "About", link: "/about" },
     { title: "Our History", link: "/our-history" },
-    { title: "Director's Message", link: "/directors-message" },
+    { title: "Secretary Message", link: "/Secretary-message" },
     {
       title: "Vision Mission & Core Values",
       link: "/vision-mission-core-values",
