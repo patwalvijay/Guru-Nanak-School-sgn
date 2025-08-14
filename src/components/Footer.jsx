@@ -14,7 +14,7 @@ const Footer = () => {
   const aboutLinks = [
     { title: "About", link: "/about" },
     { title: "Our History", link: "/our-history" },
-    { title: "Director's Message", link: "/directors-message" },
+    { title: "Secretary's Message", link: "/secretary-message" },
     {
       title: "Vision Mission & Core Values",
       link: "/vision-mission-core-values",
@@ -25,7 +25,7 @@ const Footer = () => {
 
   const admissionLinks = [
     { title: "Admission", link: "/admission" },
-    { title: "Application Form", link: "/admission-form" },
+    // { title: "Application Form", link: "/admission-form" },
     { title: "Fees Rules & Regulations", link: "/fees-rules-regulations" },
     { title: "TC Form", link: "/tc-form" },
     { title: "School Calender", link: "/school-calender" },
@@ -53,7 +53,7 @@ const Footer = () => {
                 Shri Guru Nanak Doon Vale School
               </h3>
               <p className="text-gray-200 mb-4 leading-relaxed">
-                Established in 1989, providing quality education for over three
+                Established in 1993, providing quality education for over three
                 decades. A trusted co-educational institution in Dehradun.
               </p>
 
@@ -163,14 +163,18 @@ const Footer = () => {
                   School Hours
                 </h5>
                 <div className="text-sm text-gray-200 space-y-1">
-                  <p>Monday - Friday</p>
-                  <p>Summer: 7:30 AM - 1:30 PM</p>
-                  <p>Winter: 8:30 AM - 2:30 PM</p>
+                  <p>Monday - Saturday</p>
+                  <p>Summer: 8:00 AM - 1:30 PM</p>
+                  <p>Winter: 8:20 AM - 2:00 PM</p>
                 </div>
               </div>
               <div className="flex items-center mt-3">
                 <Mail className="w-5 h-5 mr-3 flex-shrink-0" />
                 <p className="">Sgnschool555@gmail.com</p>
+              </div>
+              <div className="flex items-center mt-3">
+                <Mail className="w-5 h-5 mr-3 flex-shrink-0" />
+                <p className="">sgndoonvale@gmail.com</p>
               </div>
             </div>
           </div>

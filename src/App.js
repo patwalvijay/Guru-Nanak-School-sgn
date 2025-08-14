@@ -9,7 +9,7 @@ import FeeStructure from "./pages/FeeStructure";
 import Howtoregister from "./pages/Howtoregister";
 import Withdrawalpolicy from "./pages/Withdrawalpolicy";
 
-import DirectorMessage from "./pages/About/DirectorMessage";
+import SecretaryMessage from "./pages/About/SecretaryMessage";
 import Facilities from "./pages/About/Facilities";
 import Mandatory from "./pages/About/Mandatory";
 import Mission from "./pages/About/Mission";
@@ -24,6 +24,8 @@ import Shruti from "./pages/Alumnae/Shruti";
 import Vedita from "./pages/Alumnae/Vedita";
 import Studentlife from "./pages/Studentlife";
 import Thanks from "./pages/Thanks";
+import Infrastructure from "./pages/Infrastructure";
+import PrincipleMessage from "./pages/PrincipleMessage";
 
 function App() {
   return (
@@ -40,6 +42,8 @@ function App() {
         <Route exact path="/feeStructure" element={<FeeStructure />} />
         <Route exact path="/withdrawalpolicy" element={<Withdrawalpolicy />} />
         <Route exact path="/aboutTradition" element={<AboutTradition />} />
+        <Route exact path="/Infrastructure" element={<Infrastructure />} />
+        <Route exact path="/Principle-Message" element={<PrincipleMessage />} />
         {/* Alumni  */}
         <Route exact path="/shruti" element={<Shruti />} />
         <Route exact path="/vedita" element={<Vedita />} />
@@ -54,7 +58,7 @@ function App() {
           element={<Mandatory />}
         />
 
-        <Route exact path="/Secretary-message" element={<DirectorMessage />} />
+        <Route exact path="/Secretary-message" element={<SecretaryMessage />} />
         <Route exact path="/vision-mission-core-values" element={<Mission />} />
         <Route exact path="/facilities" element={<Facilities />} />
         <Route exact path="/school-structure" element={<SchoolStructure />} />

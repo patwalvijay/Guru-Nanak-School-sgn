@@ -18,7 +18,7 @@ function About() {
                 <span className="text-[#990000]"> S.G.N Doon Vale School</span>
               </h1>
               <p className="max-w-2xl mb-6  text-black lg:mb-8 md:text-lg lg:text-[15px] text-justify">
-                Founded in 1989, Shri Guru Nanak Doon Vale School is a
+                Founded in 1993, Shri Guru Nanak Doon Vale School is a
                 co-educational institution committed to delivering quality
                 education from Pre-Nursery to Class VIII. Located in the heart
                 of Dehradun, our school is known for combining academic

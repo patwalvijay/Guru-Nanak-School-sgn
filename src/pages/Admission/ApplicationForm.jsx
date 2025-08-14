@@ -1,16 +1,14 @@
-import DownloadButton from '../../components/Global/DownloadButton'
-import Hero from '../../components/Global/Hero'
-import Layout from '../../components/Layout'
+import DownloadButton from "../../components/Global/DownloadButton";
+import Hero from "../../components/Global/Hero";
+import Layout from "../../components/Layout";
 
 const ApplicationForm = () => {
   return (
     <>
-    <Layout>
-    <div>
-        <Hero title={"Admission Form"} icon={""}/>
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-            
-
+      <Layout>
+        <div>
+          <Hero title={"Admission Form"} icon={""} />
+          <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
             {/* Message Content */}
             <div className="prose prose-lg max-w-none">
               <div className="space-y-6 text-gray-700 leading-relaxed">
@@ -22,33 +20,28 @@ const ApplicationForm = () => {
                   />
                 </div>
                 <p>
-                Admission Form – Shri Guru Nanak Doon Vale School
-
-Thank you for your interest in Shri Guru Nanak Doon Vale School, one of the best co-educational schools in Dehradun. We are pleased to invite applications for Pre-Nursery to Class VIII for the upcoming academic year.
-
-Before filling out the admission form, please ensure you have the following documents:
-
-
+                  Admission Form – Shri Guru Nanak Doon Vale School Thank you
+                  for your interest in Shri Guru Nanak Doon Vale School, one of
+                  the best co-educational schools in Dehradun. We are pleased to
+                  invite applications for Pre-Nursery to Class VIII for the
+                  upcoming academic year. Before filling out the admission form,
+                  please ensure you have the following documents:
                 </p>
 
                 <p>
-                 A copy of the child’s birth certificate
-
-Previous school report card (if applicable)
-
-Two passport-size photographs
-
-Address proof of parents/guardians
-
-Kindly complete all fields accurately. Incomplete forms may lead to delays in processing. 
+                  A copy of the child’s birth certificate Previous school report
+                  card (if applicable) Two passport-size photographs Address
+                  proof of parents/guardians Kindly complete all fields
+                  accurately. Incomplete forms may lead to delays in processing.
                 </p>
 
                 <p>
-                 Submission of the form does not guarantee admission; selection is based on seat availability and a brief interaction.
-
-You may download the form here or collect a physical copy from the school office during working hours.
-
-We look forward to welcoming your child to the Doon Vale family and beginning a journey of joyful learning and growth.
+                  Submission of the form does not guarantee admission; selection
+                  is based on seat availability and a brief interaction. You may
+                  download the form here or collect a physical copy from the
+                  school office during working hours. We look forward to
+                  welcoming your child to the Doon Vale family and beginning a
+                  journey of joyful learning and growth.
                 </p>
 
                 <p>
@@ -69,16 +62,16 @@ We look forward to welcoming your child to the Doon Vale family and beginning a 
                   Thank you for being a part of this journey. We look forward to
                   shaping bright futures, together.
                 </p>
-                <div className='pt-4'>
-                    <DownloadButton buttonText="Application Form"/>
+                <div className="pt-4">
+                  <DownloadButton buttonText="Application Form" />
                 </div>
               </div>
             </div>
           </div>
-    </div>
-    </Layout>
+        </div>
+      </Layout>
     </>
-  )
-}
+  );
+};
 
-export default ApplicationForm
+export default ApplicationForm;

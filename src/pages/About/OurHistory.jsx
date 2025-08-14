@@ -26,18 +26,23 @@ const OurHistory = () => {
           <section className="py-16 px-6 max-w-6xl mx-auto">
             <div className="w-full max-w-3xl mx-auto text-center space-y-8">
               <p className="text-[#990000] text-2xl md:text-3xl font-semibold mb-4 text-center">
-                A Legacy of Excellence Since 1989
+                A Legacy of Excellence
               </p>
               <p className="text-lg leading-relaxed ">
-                The foundation of this esteemed institution was laid on 16th
-                July 1989, when a humble dream took shape. It was on this very
-                date that the first brick was placed on the land by the managing
-                members of Shri Guru Nanak Public Shiksha Samiti — a society
-                formed with a strong desire to provide accessible, value-based
-                education in the Cantonment area of Dehradun. The site chosen
-                was undeveloped, yet brimming with hope and potential. With no
-                grand structures in place, just the noble intention to serve the
-                community, the journey of building the school began.
+                Shri Guru Nanak Public school a society formed in 1946 with a
+                strong desire to provide accessible, value-based education in
+                Dehradun. Beside S.G.N Doon Vale school the socicty is running
+                two Goverment aided school in Dehradun since 1946 namely shri
+                Guru Nanak Boys Inter College chukkuwala, Dehradun and Shri Guru
+                Nanak Mahila Inter collage Khurbura Dehradun. Both the school
+                are managed as per the provision of the scheme administration
+                approved by the Education department. The site chosen was
+                undeveloped, yet brimming with hope and potential. With no grand
+                structures in place, just the noble intention to serve the
+                community, the journey of building the school began. The
+                foundation of this esteemed institution was laid on 16th July
+                1989, when a humble dream took shape. It was on this very date
+                that the first brick was placed on the land
               </p>
 
               <p className="text-lg leading-relaxed">

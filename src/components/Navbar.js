@@ -15,6 +15,8 @@ function Navbar() {
     { title: "About", link: "/about" },
     { title: "Our History", link: "/our-history" },
     { title: "Secretary Message", link: "/Secretary-message" },
+    { title: "Principle Message", link: "/Principle-Message" },
+
     {
       title: "Vision Mission & Core Values",
       link: "/vision-mission-core-values",
@@ -34,6 +36,10 @@ function Navbar() {
     { title: "TC Form", link: "/tc-form" },
     { title: "School Calender", link: "/school-calender" },
     /*{ title: "About Tradition", link: "/abouttradition" },*/
+  ];
+  const Facilities = [
+    { title: "Facilities", link: "/Facilities" },
+    { title: "Infrastructure", link: "/Infrastructure" },
   ];
 
   return (
@@ -199,8 +205,56 @@ function Navbar() {
                     </Menu>
                   </li>
                   <li className="text-gray-100 hover:text-[#FFA700]">
-                    <Link to={"/facilities"}>Facilities</Link>
+                    {/* <Link to={'/admission'}>Admission</Link> */}
+                    <Menu as="div" className="relative inline-block text-left">
+                      <div>
+                        <Menu.Button className="inline-flex w-full justify-center rounded-md text-white shadow-sm    ">
+                          Facilities
+                          <ChevronDownIcon
+                            className="-mr-1 ml-2 h-5 w-5"
+                            aria-hidden="true"
+                          />
+                        </Menu.Button>
+                      </div>
+
+                      <Transition
+                        as={Fragment}
+                        enter="transition ease-out duration-100"
+                        enterFrom="transform opacity-0 scale-95"
+                        enterTo="transform opacity-100 scale-100"
+                        leave="transition ease-in duration-75"
+                        leaveFrom="transform opacity-100 scale-100"
+                        leaveTo="transform opacity-0 scale-95"
+                      >
+                        <Menu.Items className="absolute  z-10 mt-2 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none border-t-4 border-[#FFA700]">
+                          <div className="py-1">
+                            {Facilities.map((item) => (
+                              <>
+                                <Menu.Item>
+                                  {({ active }) => (
+                                    <Link
+                                      to={item?.link}
+                                      className={classNames(
+                                        active
+                                          ? " text-[#FFA700]"
+                                          : "text-black",
+                                        "block px-4 py-2 text-sm"
+                                      )}
+                                    >
+                                      {item?.title}
+                                    </Link>
+                                  )}
+                                </Menu.Item>
+                              </>
+                            ))}
+                          </div>
+                        </Menu.Items>
+                      </Transition>
+                    </Menu>
                   </li>
+                  {/* <li className="text-gray-100 hover:text-[#FFA700]">
+                    <Link to={"/facilities"}>Facilities</Link>
+                  </li> */}
                   <li className="text-gray-100 hover:text-[#FFA700]">
                     <Link to={"/studentlife"}>Student life</Link>
                   </li>

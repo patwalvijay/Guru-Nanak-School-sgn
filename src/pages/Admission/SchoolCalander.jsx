@@ -1,17 +1,15 @@
-import React from 'react'
-import Hero from '../../components/Global/Hero'
-import DownloadButton from '../../components/Global/DownloadButton'
-import Layout from '../../components/Layout'
+import React from "react";
+import Hero from "../../components/Global/Hero";
+import DownloadButton from "../../components/Global/DownloadButton";
+import Layout from "../../components/Layout";
 
 const SchoolCalander = () => {
   return (
     <>
-    <Layout>
-    <div>
-        <Hero title={"School Calender"} icon={""}/>
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-            
-
+      <Layout>
+        <div>
+          <Hero title={"School Calender"} icon={""} />
+          <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
             {/* Message Content */}
             <div className="prose prose-lg max-w-none">
               <div className="space-y-6 text-gray-700 leading-relaxed">
@@ -64,16 +62,16 @@ const SchoolCalander = () => {
                   Thank you for being a part of this journey. We look forward to
                   shaping bright futures, together.
                 </p>
-                <div className='pt-4'>
-                    <DownloadButton buttonText="Application Form"/>
+                <div className="pt-4">
+                  <DownloadButton buttonText="Application Form" />
                 </div>
               </div>
             </div>
           </div>
-    </div>
-    </Layout>
+        </div>
+      </Layout>
     </>
-  )
-}
+  );
+};
 
-export default SchoolCalander
+export default SchoolCalander;

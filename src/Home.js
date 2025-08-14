@@ -8,6 +8,7 @@ import SimilarSchool from "./components/SimilarSchool";
 import Testimonials from "./components/Testimonials";
 import Faq from "./components/Faq";
 import Faqs from "./components/Faqs";
+import GalleryCarousel from "./components/GalleryCarousel";
 
 function Home() {
   useEffect(() => {
@@ -19,10 +20,10 @@ function Home() {
         <Hero />
         <MoreAbout />
         <AdmissionInfo />
-        {/* <BeyonAcademy /> */}
-        {/* <SimilarSchool /> */}
-        <Testimonials />
-        {/* <Faq /> */}
+        <GalleryCarousel />
+        <div className="mt-32">
+          <Testimonials />
+        </div>
         <Faqs />
       </Layout>
     </div>

@@ -52,7 +52,7 @@ const Mission = () => {
               </div>
             </div>
           </div>
-          <Hero title={"Vision, Mission & Core Values"} icon={"Eye"} />
+          <Hero title={"Vision, Mission & Core Values"} icon={""} />
 
           {/* Content */}
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">

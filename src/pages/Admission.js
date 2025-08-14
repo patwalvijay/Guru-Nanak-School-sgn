@@ -47,9 +47,9 @@ function Admission() {
                 schools in Dehradun and give your child the right start in a
                 supportive, value-driven learning environment.
               </p>
-              <div className="pt-4">
+              {/* <div className="pt-4">
                 <DownloadButton />
-              </div>
+              </div> */}
             </div>
             <div className=" lg:mt-0 lg:col-span-5 lg:flex">
               <img

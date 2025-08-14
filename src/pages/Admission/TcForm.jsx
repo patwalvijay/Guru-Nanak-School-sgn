@@ -12,55 +12,34 @@ const TcForm = () => {
           <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
             {/* Message Content */}
             <div className="prose prose-lg max-w-none">
-              <div className="space-y-6 text-gray-700 leading-relaxed">
-                {/* <div className="md:float-right md:w-3/6 md:ml-8 mb-6">
+              <div className="space-y-12 text-gray-700 leading-relaxed">
+                <h1 className="title-font sm:text-4xl text-3xl  font-bold text-gray-900 uppercase mb-5">
+                  ABOUT THE
+                  <span className="text-[#990000]"> TC Form</span>
+                </h1>
+                <div className="md:float-right md:w-3/6 md:ml-24 mb-2">
                   <img
-                    src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGlyZWN0b3J8ZW58MHx8MHx8fDA%3D"
+                    src="img/school_hor-5.JPG"
                     alt="Director"
                     className="rounded-xl shadow-lg object-cover aspect-square w-full h-auto"
                   />
-                </div> */}
-                <p>
-                  Education is the most powerful tool we can offer the next
-                  generation—a tool that not only shapes intellect but also
-                  builds character, resilience, and purpose.
-                </p>
-
-                <p>
-                  At Shri Guru Nanak Doon Vale School, we are committed to
-                  nurturing young minds in a way that prepares them for both
-                  academic success and the responsibilities of life. Our vision
-                  is to create a learning environment that is inclusive,
-                  forward-thinking, and rooted in strong values such as
-                  integrity, empathy, respect, and discipline.
-                </p>
-
-                <p>
-                  From the moment a child enters our school, we aim to provide
-                  them with every opportunity to grow intellectually,
-                  emotionally, and socially. Our academic framework is designed
-                  to encourage curiosity, creativity, and critical thinking,
-                  while our co-curricular and extracurricular programs help
-                  students discover their passions and build confidence.
-                </p>
-
-                <p>
-                  We take pride in the culture of collaboration and trust that
-                  defines our school. Our dedicated team of educators and staff
-                  work tirelessly to ensure that every student feels safe,
-                  inspired, and empowered to achieve their full potential.
-                </p>
-
-                <p>
-                  As we move ahead in an ever-evolving world, our goal is to
-                  raise thoughtful, responsible individuals who are not only
-                  well-educated but also kind, courageous, and ready to make a
-                  meaningful contribution to society.
-                </p>
-
-                <p>
-                  Thank you for being a part of this journey. We look forward to
-                  shaping bright futures, together.
+                </div>
+                <p className="max-w-2xl mb-6 text-black lg:mb-8 md:text-lg lg:text-[16px] dark:text-gray-400 text-justify">
+                  Shri Guru Nanak Doon Vale School requires that a written
+                  notice of withdrawal be submitted at least one month in
+                  advance; if this advance notice is not received, a month’s
+                  tuition fee will be charged instead sgnpsdehradun.com . The
+                  Transfer Certificate (TC) will be issued only after all dues
+                  are fully settled sgnpsdehradun.com . Please note that
+                  admission and annual fees are non-refundable, and tuition fees
+                  will not be refunded once the term has begun. In the event of
+                  a mid-term withdrawal, parents are required to make full
+                  payment for the current term. The school also reserves the
+                  right to initiate withdrawal, and withhold issuance of the TC,
+                  in cases of fee default, repeated disciplinary issues, or
+                  other valid reasons. All withdrawal requests must be made in
+                  writing—verbal, telephonic, or email requests will not be
+                  accepted.
                 </p>
                 <div className="pt-4">
                   <DownloadButton buttonText="TC Form" />
