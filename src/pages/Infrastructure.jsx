@@ -23,7 +23,7 @@ const Infrastructure = () => {
 
         {/* Hero Section */}
         <section className="relative h-[60vh] w-full">
-          <img
+          <img loading="lazy"
             src="img/moreabout.jpg"
             alt="Hero Background"
             className="object-cover w-full h-full"
@@ -68,7 +68,7 @@ const Infrastructure = () => {
               </p>
             </div>
             <div className="flex-1">
-              <img
+              <img loading="lazy"
                 src="img/sample1.jpg"
                 alt="Sample 1"
                 className="rounded-xl shadow-lg object-cover w-full"
@@ -105,7 +105,7 @@ const Infrastructure = () => {
               </p>
             </div>
             <div className="flex-1">
-              <img
+              <img loading="lazy"
                 src="img/sample2.jpg"
                 alt="Sample 2"
                 className="rounded-xl shadow-lg object-cover w-full"
@@ -140,9 +140,71 @@ const Infrastructure = () => {
               </p>
             </div>
             <div className="flex-1">
-              <img
+              <img loading="lazy"
                 src="img/sample3.jpg"
                 alt="Sample 3"
+                className="rounded-xl shadow-lg object-cover w-full"
+              />
+            </div>
+          </div>
+          <div className="flex flex-col md:flex-row-reverse items-center gap-8">
+            <div className="flex-1 text-gray-700 leading-relaxed">
+              <p>
+                The Science Laboratory at our institution is a dedicated space designed
+      to ignite curiosity, encourage experimentation, and foster a hands-on
+      understanding of scientific concepts. Well-ventilated and fully equipped
+      with modern apparatus, instruments, and safety measures, the laboratory
+      provides students with the ideal environment to explore the wonders of
+      Physics, Chemistry, and Biology. Workbenches are spacious and organized,
+      with dedicated sections for different branches of science, ensuring that
+      practical sessions are systematic and productive. The lab is stocked with
+      quality glassware, chemicals, and specialized models to aid in
+      demonstrations and student experiments. Proper storage facilities and
+      labeled cabinets ensure easy access to materials while maintaining
+      cleanliness and order. Safety is a top priority — the lab is equipped with
+      fire extinguishers, first-aid kits, exhaust fans, and clear safety
+      guidelines displayed prominently for all students. Teachers and lab
+      assistants work closely with students, guiding them through practical
+      procedures, helping them record observations, and encouraging them to ask
+      questions beyond the textbook. Regular science workshops, exhibitions, and
+      hands-on projects are conducted to give students an opportunity to present
+      their innovative ideas.
+              </p>
+            </div>
+            <div className="flex-1">
+              <img loading="lazy"
+                src="img/sample4.jpg"
+                alt="Science Laboratory"
+                className="rounded-xl shadow-lg object-cover w-full"
+              />
+            </div>
+          </div>
+
+          {/* NEW SECTION - Playground & Sports Facilities */}
+          <div className="flex flex-col md:flex-row items-center gap-8">
+            <div className="flex-1 text-gray-700 leading-relaxed">
+              <p>
+               The Sports and Physical Education facilities at our school are designed
+      to promote health, fitness, discipline, and team spirit among students.
+      Our spacious playground provides ample space for outdoor games such as
+      cricket, football, volleyball, and athletics, while dedicated indoor
+      areas cater to badminton, table tennis, chess, and yoga. The school
+      understands the importance of sports as an integral part of education,
+      and therefore ensures that students have access to high-quality sports
+      equipment, trained coaches, and structured practice sessions. Regular
+      inter-house and inter-school tournaments foster a healthy competitive
+      spirit, encouraging students to strive for excellence both on and off the
+      field. Physical education classes are conducted systematically to improve
+      stamina, flexibility, and coordination, while also teaching students
+      about sportsmanship, resilience, and mutual respect. The school also
+      organizes annual sports days, fun races, and fitness challenges where
+      every student is encouraged to participate, regardless of skill level.
+              </p>
+            </div>
+            <div className="flex-1">
+              <img loading="lazy"
+                src="img/sample5.jpg"
+                alt="Playground and Sports"
                 className="rounded-xl shadow-lg object-cover w-full"
               />
             </div>

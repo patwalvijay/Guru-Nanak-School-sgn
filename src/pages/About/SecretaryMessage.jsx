@@ -38,11 +38,27 @@ const SecretaryMessage = () => {
             <div className="prose prose-lg max-w-none">
               <div className="space-y-6 text-gray-700 leading-relaxed">
                 <div className="md:float-right md:w-3/6 md:ml-8 mb-6">
-                  <img
-                    src="img/Secretary Message.JPG"
-                    alt="Director"
-                    className="rounded-xl shadow-lg object-cover aspect-square w-full h-auto"
-                  />
+                  <div className="max-w-sm mx-auto rounded-xl shadow-lg overflow-hidden bg-white">
+                    <img
+                      src="img/Secretary Message.JPG"
+                      alt="Secretary"
+                      className="w-full aspect-square object-cover"
+                    />
+                    <div className="p-4 text-center bg-[#990000] text-white">
+                      <h2 className="font-bold text-xl text-white">
+                        S. Jagmeet Singh Chendhok
+                      </h2>
+                      <p className="font-semibold ">Secretary</p>
+                      <p className="">Shri Guru Nanak Public School</p>
+                      <p className="font-semibold mt-1">Manager</p>
+                      <p className="">Shri Guru Nanak Doon Vale School</p>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <h1 className="text-[#990000] text-2xl md:text-3xl font-bold mb-3">
+                    Secretary's Message
+                  </h1>
                 </div>
                 <p>
                   Education is the most powerful tool we can offer the next
@@ -89,7 +105,7 @@ const SecretaryMessage = () => {
               </div>
 
               {/* Signature */}
-              <div className="mt-12 pt-8 border-t border-gray-200">
+              <div className="mt-12 pt-8 border-t border-gray-200 hidden">
                 <div className="text-right">
                   <p className="font-bold text-[#0f0505] text-lg mt-2">
                     S.Jagmeet Singh chendhok

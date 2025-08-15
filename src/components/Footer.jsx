@@ -14,6 +14,10 @@ const Footer = () => {
   const aboutLinks = [
     { title: "About", link: "/about" },
     { title: "Our History", link: "/our-history" },
+    {
+      title: "Gallery",
+      link: "/gallery",
+    },
     { title: "Secretary's Message", link: "/secretary-message" },
     {
       title: "Vision Mission & Core Values",

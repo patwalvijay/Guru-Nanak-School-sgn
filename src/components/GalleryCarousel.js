@@ -1,4 +1,6 @@
 import Gallery from "./Gallery";
+import { galleryImages } from "../gallerydata";
+import { Link } from "react-router-dom";
 
 function GalleryCarousel() {
   // const images = [
@@ -18,13 +20,24 @@ function GalleryCarousel() {
 
   return (
     <div className=" ">
-      <section className=" ">
+      <section className=" my-8">
         <div className=" mx-auto px-5 max-w-full h-max  ">
           <h2 className="text-4xl font-bold text-center text-[#03001B] mb-10">
             School Gallery
           </h2>
 
-          <Gallery />
+          <div className="w-full p-4 max-w-5xl mx-auto">
+            <Gallery images={galleryImages} />
+            <div className="mt-6 flex justify-center">
+              <Link
+                to={"/gallery"}
+                className="bg-[#990000] text-white px-5 py-2 rounded-lg shadow hover:bg-[#b30000] transition-colors"
+              >
+                View Gallery
+              </Link>
+            </div>
+
+          </div>
           {/* <div className="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-2">
             {images.map((img, index) => (
               <div key={index} className="p-2">

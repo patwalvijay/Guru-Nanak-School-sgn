@@ -26,6 +26,7 @@ import Studentlife from "./pages/Studentlife";
 import Thanks from "./pages/Thanks";
 import Infrastructure from "./pages/Infrastructure";
 import PrincipleMessage from "./pages/PrincipleMessage";
+import GallaryPage from "./pages/GallaryPage";
 
 function App() {
   return (
@@ -67,6 +68,7 @@ function App() {
         <Route exact path="/fees-rules-ragulations" element={<FeesRules />} />
         <Route exact path="/tc-form" element={<TcForm />} />
         <Route exact path="/school-calender" element={<SchoolStructure />} />
+        <Route exact path="/gallery" element={<GallaryPage />} />
       </Routes>
     </Router>
   );

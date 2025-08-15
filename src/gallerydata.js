@@ -8,15 +8,47 @@ import gallery7 from "./assets/gallery/7.JPG";
 import gallery9 from "./assets/gallery/9.JPG";
 import gallery8 from "./assets/gallery/8.JPG";
 
+// galleryImages.js
+
+import img1 from './assets/gallery/ART09053.jpg';
+import img2 from './assets/gallery/ART00004.jpg';
+import img3 from './assets/gallery/ART09440.jpg';
+import img4 from './assets/gallery/ART09369.jpg';
+import img5 from './assets/gallery/ART09345.jpg';
+import img6 from './assets/gallery/ART09076.jpg';
+import img7 from './assets/gallery/ART09027.jpg';
+import img8 from './assets/gallery/ART09010.jpg';
+import img9 from './assets/gallery/ART00008.jpg';
+import img10 from './assets/gallery/ART09462.jpg';
+import img11 from './assets/gallery/ART09393.jpg';
+import img12 from './assets/gallery/ART09289.jpg';
+import img13 from './assets/gallery/ART09086.jpg';
+import img14 from './assets/gallery/ART09069.jpg';
+import img15 from './assets/gallery/ART00027.jpg';
+import img16 from './assets/gallery/ART00026.jpg';
+import img17 from './assets/gallery/ART09422.jpg';
+import img18 from './assets/gallery/ART00013.jpg';
+import img19 from './assets/gallery/ART09296.jpg';
+import img20 from './assets/gallery/ART09264.jpg';
+
+export const mainGalleryImages = [
+  img1, img2, img3, img4, img5,
+  img6, img7, img8, img9, img10,
+  img11, img12, img13, img14, img15,
+  img16, img17, img18, img19, img20
+];
+
+
 export const galleryImages = [
-  gallery1,
   gallery3,
   gallery4,
   gallery5,
-  gallery6,
-  gallery7,
+  img14,
+  img7,
   gallery8,
   gallery9,
+  img12,
+  img18,
   //   gallery10,
   //   gallery11,
   //   gallery12,

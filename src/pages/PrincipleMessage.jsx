@@ -43,52 +43,26 @@ const PrincipleMessage = () => {
                   />
                 </div>
                 <p>
-                  Education is the most powerful gift we can offer the next
-                  generation—a gift that shapes intellect, builds character, and
-                  instills resilience and purpose. At Shri Guru Nanak Doon Vale
-                  School, we are deeply committed to nurturing young minds in a
-                  way that equips them not only for academic success but also
-                  for the responsibilities and challenges of life.
+                 Education is one of the greatest gifts we can give to the next generation—a gift that shapes intellect, builds character, and nurtures resilience and purpose. At Doon Vale School, we are committed to guiding young minds in a way that prepares them not only for academic success but also for the responsibilities and challenges of life.
                 </p>
 
                 <p>
-                  Our vision is to create a learning environment that is
-                  inclusive, forward-thinking, and firmly rooted in values such
-                  as integrity, empathy, respect, and discipline. From the
-                  moment a child steps into our school, we strive to provide
-                  them with every opportunity to grow intellectually,
-                  emotionally, and socially. Our academic framework encourages
-                  curiosity, creativity, and critical thinking, while our
-                  co-curricular and extracurricular programs help students
-                  explore their passions and build confidence.
+                  Our vision is to foster a learning environment that is inclusive, progressive, and grounded in values such as integrity, empathy, respect, and discipline. From the moment a student joins us, we strive to provide opportunities for growth—intellectually, emotionally, and socially. Our academic programs encourage curiosity, creativity, and critical thinking, while co-curricular and extracurricular activities inspire passion, teamwork, and confidence.
                 </p>
 
                 <p>
-                  We take immense pride in the culture of collaboration and
-                  trust that defines our school community. Our dedicated team of
-                  educators works tirelessly to ensure every student feels safe,
-                  inspired, and empowered to achieve their full potential.
+                  We take pride in the culture of collaboration, trust, and mutual respect that defines our school community. Our dedicated team of educators works tirelessly to ensure that every student feels safe, supported, and inspired to reach their highest potential.
                 </p>
 
                 <p>
-                  We take pride in the culture of collaboration and trust that
-                  defines our school. Our dedicated team of educators and staff
-                  work tirelessly to ensure that every student feels safe,
-                  inspired, and empowered to achieve their full potential.
+                  As we move forward in an ever-changing world, our mission remains clear—to shape thoughtful, responsible individuals who are not only well-educated but also compassionate, courageous, and ready to make a positive impact on society.
                 </p>
 
-                <p>
-                  As we progress in this ever-evolving world, our mission
-                  remains clear—to shape thoughtful, responsible individuals who
-                  are not only well-educated but also compassionate, courageous,
-                  and ready to make meaningful contributions to society.
-                </p>
-
-                <p>Together, let us continue building bright futures.</p>
+                <p>Together, we continue to build bright futures.</p>
               </div>
 
               {/* Signature */}
-              <div className="mt-12 pt-8 border-t border-gray-200">
+              <div className="mt-12 pt-8 border-t border-gray-200 hidden">
                 <div className="text-right">
                   <p className="font-bold text-[#0f0505] text-lg mt-2">
                     Susmita Singh

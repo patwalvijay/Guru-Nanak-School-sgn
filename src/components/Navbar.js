@@ -21,6 +21,10 @@ function Navbar() {
       title: "Vision Mission & Core Values",
       link: "/vision-mission-core-values",
     },
+    {
+      title: "Gallery",
+      link: "/gallery",
+    },
     // { title: "Facilities", link: "/facilities" },
     { title: "School Structure", link: "/school-structure" },
     {

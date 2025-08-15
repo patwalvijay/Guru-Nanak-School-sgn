@@ -41,7 +41,7 @@ const TcForm = () => {
                   writing—verbal, telephonic, or email requests will not be
                   accepted.
                 </p>
-                <div className="pt-4">
+                <div className="pt-4 hidden">
                   <DownloadButton buttonText="TC Form" />
                 </div>
               </div>

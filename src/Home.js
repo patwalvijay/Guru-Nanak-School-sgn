@@ -19,7 +19,7 @@ function Home() {
       <Layout>
         <Hero />
         <MoreAbout />
-        <AdmissionInfo />
+        {/**<AdmissionInfo /> */}
         <GalleryCarousel />
         <div className="mt-32">
           <Testimonials />

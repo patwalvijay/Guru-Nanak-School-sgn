@@ -7,6 +7,7 @@ import {
   Shield,
   Clock,
   AlertTriangle,
+  Medal
 } from "lucide-react";
 import Hero from "../../components/Global/Hero";
 import Layout from "../../components/Layout";
@@ -139,14 +140,14 @@ const Facilities = () => {
             {/* sports acitivity */}
             <div className="mb-16">
               <h2 className="text-3xl font-bold text-[#990000] mb-8 text-center">
-                SportsActivities
+                Sports Activities
               </h2>
 
               <div className="bg-gray-50 p-8 rounded-lg border border-gray-200">
                 <div className="space-y-4">
                   {SportsActivities.map((activity, index) => (
                     <div key={index} className="flex items-start">
-                      <Trophy className="w-6 h-6 text-[#990000] mr-3 flex-shrink-0 mt-0.5" />
+                      <Medal className="w-6 h-6 text-[#990000] mr-3 flex-shrink-0 mt-0.5" />
                       <p className="text-gray-700">{activity}</p>
                     </div>
                   ))}
