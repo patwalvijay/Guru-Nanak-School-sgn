@@ -1,6 +1,5 @@
 // import React from "react";
 import Layout from "../components/Layout";
-
 const Infrastructure = () => {
   return (
     <Layout>
@@ -69,7 +68,7 @@ const Infrastructure = () => {
             </div>
             <div className="flex-1">
               <img loading="lazy"
-                src="img/sample1.jpg"
+                src=""
                 alt="Sample 1"
                 className="rounded-xl shadow-lg object-cover w-full"
               />
@@ -203,9 +202,9 @@ const Infrastructure = () => {
             </div>
             <div className="flex-1">
               <img loading="lazy"
-                src="img/sample5.jpg"
+                src="image/sports.jpg"
                 alt="Playground and Sports"
-                className="rounded-xl shadow-lg object-cover w-full"
+                className="rounded-xl shadow-lg object-cover w-full aspect-square"
               />
             </div>
           </div>

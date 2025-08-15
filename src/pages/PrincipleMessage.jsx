@@ -37,7 +37,7 @@ const PrincipleMessage = () => {
               <div className="space-y-6 text-gray-700 leading-relaxed">
                 <div className="md:float-right md:w-3/6 md:ml-8 mb-6">
                   <img
-                    src="img/"
+                    src="image/principal.jpg"
                     alt="Director"
                     className="rounded-xl shadow-lg object-cover aspect-square w-full h-auto"
                   />
@@ -67,7 +67,7 @@ const PrincipleMessage = () => {
                   <p className="font-bold text-[#0f0505] text-lg mt-2">
                     Mrs Harvinder Kaur
                   </p>
-                  <p className="font-semibold underline text-gray-800">
+                  <p className="font-semibold text-gray-800">
                     – Principal
                   </p>
                 </div>
