@@ -14,7 +14,7 @@ const PrincipleMessage = () => {
             />
             <div className="absolute inset-0 bg-black/50 flex flex-col justify-center items-center px-4 mt-12">
               <h1 className="text-white text-4xl md:text-5xl font-bold mb-3 text-center">
-                Principle's Message
+                Principal's Message
               </h1>
               <p className="text-white hidden text-lg md:text-xl text-center max-w-2xl">
                 “True education nurtures both the intellect and the soul.”
