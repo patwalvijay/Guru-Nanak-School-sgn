@@ -40,7 +40,7 @@ export const mainGalleryImages = [
 
 
 export const galleryImages = [
-  gallery3,
+  img7,
   gallery4,
   gallery5,
   img14,
