@@ -68,9 +68,9 @@ const Infrastructure = () => {
             </div>
             <div className="flex-1">
               <img loading="lazy"
-                src=""
+                src="image/lab.jpg"
                 alt="Sample 1"
-                className="rounded-xl shadow-lg object-cover w-full"
+                className="rounded-xl shadow-lg object-cover w-full aspect-video"
               />
             </div>
           </div>
@@ -140,7 +140,7 @@ const Infrastructure = () => {
             </div>
             <div className="flex-1">
               <img loading="lazy"
-                src="img/sample3.jpg"
+                src="image/infra.jpg"
                 alt="Sample 3"
                 className="rounded-xl shadow-lg object-cover w-full"
               />
@@ -204,7 +204,7 @@ const Infrastructure = () => {
               <img loading="lazy"
                 src="image/sports.jpg"
                 alt="Playground and Sports"
-                className="rounded-xl shadow-lg object-cover w-full aspect-square"
+                className="rounded-xl shadow-lg object-cover w-full aspect-video"
               />
             </div>
           </div>
