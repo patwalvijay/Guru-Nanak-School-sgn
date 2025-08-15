@@ -62,10 +62,10 @@ const PrincipleMessage = () => {
               </div>
 
               {/* Signature */}
-              <div className="mt-12 pt-8 border-t border-gray-200 hidden">
+              <div className="mt-12 pt-8 border-t border-gray-200">
                 <div className="text-right">
                   <p className="font-bold text-[#0f0505] text-lg mt-2">
-                    Susmita Singh
+                    Mrs Harvinder Kaur
                   </p>
                   <p className="font-semibold underline text-gray-800">
                     – Principal
