@@ -46,7 +46,7 @@ const SecretaryMessage = () => {
                     />
                     <div className="p-4 text-center bg-[#990000] text-white">
                       <h2 className="font-bold text-xl text-white">
-                        S. Jagmeet Singh Chendhok
+                        S. Jagmeet Singh
                       </h2>
                       <p className="font-semibold ">Secretary</p>
                       <p className="">Shri Guru Nanak Public School</p>
