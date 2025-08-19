@@ -32,7 +32,7 @@ function Hero() {
               >
                 <form
                   class="kwes-form"
-                  action="https://kwesforms.com/api/foreign/forms/g7wMYnSFcQYOQ92vik9y"
+                  action="https://kwesforms.com/api/f/YsBkMXOaxHWF8u7SQPnS"
                   method="POST"
                 >
                   <div className=" text-center">
