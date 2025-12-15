@@ -34,14 +34,14 @@ const Mandatory = () => {
                       <td class="border px-4 py-2">
                         SCHOOL CODE (IF APPLICABLE)
                       </td>
-                      <td class="border px-4 py-2">273</td>
+                      <td class="border px-4 py-2">80219</td>
                     </tr>
                     <tr>
                       <td class="border px-4 py-2">3</td>
                       <td class="border px-4 py-2">
                         AFFILIATION NO. (IF APPLICABLE)
                       </td>
-                      <td class="border px-4 py-2">Admin</td>
+                      <td class="border px-4 py-2">3530721</td>
                     </tr>
                     <tr>
                       <td class="border px-4 py-2">4</td>
@@ -55,7 +55,9 @@ const Mandatory = () => {
                     <tr>
                       <td class="border px-4 py-2">5</td>
                       <td class="border px-4 py-2">PRINCIPAL NAME</td>
-                      <td class="border px-4 py-2">Mrs. HARVINDER KAUR</td>
+                      <td class="border px-4 py-2">
+                        Mrs. HARVINDER KAUR BAJAJ
+                      </td>
                     </tr>
                     <tr>
                       <td class="border px-4 py-2">6</td>
@@ -72,7 +74,7 @@ const Mandatory = () => {
                       <td class="border px-4 py-2">
                         CONTACT DETAILS (LANDLINE/MOBILE)
                       </td>
-                      <td class="border px-4 py-2">9412054169</td>
+                      <td class="border px-4 py-2">0135-2727732</td>
                     </tr>
                   </tbody>
                 </table>
@@ -103,48 +105,53 @@ const Mandatory = () => {
                       <td class="border px-4 py-2 uppercase">
                         total no of teachers
                       </td>
-                      <td class="border px-4 py-2">19</td>
+                      <td class="border px-4 py-2">18</td>
                     </tr>
                     <tr>
                       <td class="border px-4 py-2">3</td>
                       <td class="border px-4 py-2 uppercase">TGT</td>
-                      <td class="border px-4 py-2">08</td>
+                      <td class="border px-4 py-2">07</td>
                     </tr>
                     <tr>
                       <td class="border px-4 py-2">4</td>
                       <td class="border px-4 py-2 uppercase">PRT</td>
-                      <td class="border px-4 py-2">11</td>
+                      <td class="border px-4 py-2">07</td>
                     </tr>
                     <tr>
                       <td class="border px-4 py-2">5</td>
+                      <td class="border px-4 py-2 uppercase">NTT</td>
+                      <td class="border px-4 py-2">04</td>
+                    </tr>
+                    <tr>
+                      <td class="border px-4 py-2">6</td>
                       <td class="border px-4 py-2">TEACHERS SECTION RATIO</td>
                       <td class="border px-4 py-2">35:1</td>
                     </tr>
                     <tr>
-                      <td class="border px-4 py-2">6</td>
+                      <td class="border px-4 py-2">7</td>
                       <td class="border px-4 py-2">
                         DETAILS OF SPECIAL EDUCATORS
                       </td>
                       <td class="border px-4 py-2">
                         <p>
-                          Mrs. Ramandeep Kaur
+                          Mrs Neema Devi
                           <br />
                           Contact no.
                           <a className="text-blue-700" href="tel:+919927229456">
                             {" "}
-                            9927229456
+                            +91 95687 85871
                           </a>
                         </p>
                       </td>
                     </tr>
                     <tr>
-                      <td class="border px-4 py-2">7</td>
+                      <td class="border px-4 py-2">8</td>
                       <td class="border px-4 py-2">
                         DETAILS OF COUNSELLOR AND WELLNESS TEACHER
                       </td>
                       <td class="border px-4 py-2">
                         <p>
-                          Mrs. Harvinder Kaur
+                          Dr. Simran Kaur
                           <br />
                           Contact no.{" "}
                           <a
@@ -152,7 +159,7 @@ const Mandatory = () => {
                             href="tel:+919897089269"
                             title="Call Mrs. Harvinder Kaur"
                           >
-                            9897089269
+                            +91 96345 61798
                           </a>
                         </p>
                       </td>
@@ -489,6 +496,36 @@ const Mandatory = () => {
                           rel="noopener noreferrer"
                         >
                           View Board Results
+                        </a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td className="border px-4 py-2">14</td>
+                      <td className="border px-4 py-2">Teachers Details</td>
+                      <td className="border px-4 py-2 text-blue-700">
+                        <a
+                          className="text-blue-700"
+                          href="/pdf/View-Teacher's-detail.pdf"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          View Teachers Details
+                        </a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td className="border px-4 py-2">14</td>
+                      <td className="border px-4 py-2">
+                        No. of Students Class-wise
+                      </td>
+                      <td className="border px-4 py-2 text-blue-700">
+                        <a
+                          className="text-blue-700"
+                          href="/pdf/No. of Students Class-wise"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          View No. of Students Class-wise
                         </a>
                       </td>
                     </tr>

@@ -47,9 +47,42 @@ function Admission() {
                 schools in Dehradun and give your child the right start in a
                 supportive, value-driven learning environment.
               </p>
-              {/* <div className="pt-4">
-                <DownloadButton />
-              </div> */}
+              <div className="mt-5">
+                <a
+                  className="text-blue-700 "
+                  href="/pdf/view-Information-regarding-School-fees.pdf"
+                  target="_blank"
+                  rel=""
+                >
+                  <button className="inline-flex items-center gap-2 bg-[#990000] text-white font-semibold px-5 py-2 rounded-lg shadow hover:opacity-90 transition-opacity duration-150">
+                    Download Information regarding School fees
+                  </button>
+                </a>
+              </div>
+              <div className="mt-5">
+                <a
+                  className="text-blue-700 "
+                  href="/pdf/View-list-of-book-for-2025-26.pdf"
+                  target="_blank"
+                  rel=""
+                >
+                  <button className="inline-flex items-center gap-2 bg-[#990000] text-white font-semibold px-5 py-2 rounded-lg shadow hover:opacity-90 transition-opacity duration-150">
+                    Download list of book for 2025-26
+                  </button>
+                </a>
+              </div>
+              <div className="mt-5">
+                <a
+                  className="text-blue-700 "
+                  href="/pdf/View-Norms-for-fixing-fees.pdf"
+                  target="_blank"
+                  rel=""
+                >
+                  <button className="inline-flex items-center gap-2 bg-[#990000] text-white font-semibold px-5 py-2 rounded-lg shadow hover:opacity-90 transition-opacity duration-150">
+                    Download Norms for fixing fees
+                  </button>
+                </a>
+              </div>
             </div>
             <div className=" lg:mt-0 lg:col-span-5 lg:flex">
               <img

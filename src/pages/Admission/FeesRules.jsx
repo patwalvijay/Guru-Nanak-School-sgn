@@ -57,8 +57,17 @@ const FeesRules = () => {
                   Thank you for being a part of this journey. We look forward to
                   shaping bright futures, together.
                 </p>
-                <div className="pt-4">
-                  <DownloadButton buttonText="Fee Structure" />
+                <div className="mt-5">
+                  <a
+                    className="text-blue-700 "
+                    href="/pdf/View-Fee-Structure.pdf"
+                    target="_blank"
+                    rel=""
+                  >
+                    <button className="inline-flex items-center gap-2 bg-[#990000] text-white font-semibold px-5 py-2 rounded-lg shadow hover:opacity-90 transition-opacity duration-150">
+                      Download Fees Form
+                    </button>
+                  </a>
                 </div>
               </div>
             </div>

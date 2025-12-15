@@ -1,6 +1,6 @@
 import React from "react";
 import Hero from "../../components/Global/Hero";
-import DownloadButton from "../../components/Global/DownloadButton";
+// import DownloadButton from "../../components/Global/DownloadButton";
 import Layout from "../../components/Layout";
 
 const TcForm = () => {
@@ -41,8 +41,17 @@ const TcForm = () => {
                   writing—verbal, telephonic, or email requests will not be
                   accepted.
                 </p>
-                <div className="pt-4 hidden">
-                  <DownloadButton buttonText="TC Form" />
+                <div className="pt-4 ">
+                  <a
+                    className="text-blue-700"
+                    href="/pdf/View-TC.pdf"
+                    target="_blank"
+                    rel=""
+                  >
+                    <button className="inline-flex items-center gap-2 bg-[#990000] text-white font-semibold px-5 py-2 rounded-lg shadow hover:opacity-90 transition-opacity duration-150">
+                      Download Tc Form
+                    </button>
+                  </a>
                 </div>
               </div>
             </div>
