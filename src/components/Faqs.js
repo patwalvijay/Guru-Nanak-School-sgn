@@ -24,7 +24,7 @@ export default function Faqs() {
                   />
                 </Disclosure.Button>
                 <Disclosure.Panel className="px-4 pt-2 pb-4 text-sm text-white bg-[#FFA700] ">
-                  We offer structured education from Pre-Nursery to Class VIII
+                  We offer structured education from Pre-Nursery to Class X
                   in a co-educational environment.
                 </Disclosure.Panel>
               </>

@@ -55,7 +55,7 @@ const FeesRules = () => {
 
                 <p>
                   Thank you for being a part of this journey. We look forward to
-                  shaping bright futures, together.
+                  shaping bright futures together.
                 </p>
                 <div className="mt-5">
                   <a

@@ -87,7 +87,7 @@ const SecretaryMessage = () => {
                 <p>
                   We take pride in the culture of collaboration and trust that
                   defines our school. Our dedicated team of educators and staff
-                  work tirelessly to ensure that every student feels safe,
+                  work fearlessly to ensure that every student feels safe,
                   inspired, and empowered to achieve their full potential.
                 </p>
 
@@ -100,7 +100,7 @@ const SecretaryMessage = () => {
 
                 <p>
                   Thank you for being a part of this journey. We look forward to
-                  shaping bright futures, together.
+                  shaping bright futures together.
                 </p>
               </div>
 

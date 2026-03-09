@@ -20,19 +20,21 @@ function About() {
               <p className="max-w-2xl mb-6  text-black lg:mb-8 md:text-lg lg:text-[15px] text-justify">
                 Founded in 1993, Shri Guru Nanak Doon Vale School is a
                 co-educational institution committed to delivering quality
-                education from Pre-Nursery to Class VIII. Located in the heart
+                education from Pre-Nursery to Class X. Located in the heart
                 of Dehradun, our school is known for combining academic
-                excellence with strong values, making us one of the best schools
+                excellence with strong values, making it one of the best
+                schools
                 in Dehradun. At Doon Vale, we believe that education is more
                 than just textbooks and exams. Our mission is to nurture young
                 minds into responsible, confident, and compassionate individuals
                 who are ready to meet the challenges of the future. We follow a
                 structured, student-friendly curriculum aligned with CBSE
                 standards. Our classrooms are vibrant and engaging, led by
-                experienced and caring educators. A wide range of co-curricular
-                activities, including music, dance, drawing, and inter-house
-                competitions, support holistic development. Our disciplined,
-                inclusive environment encourages students to excel both
+                experienced and caring educators. A wide range of
+                co-curricular activities, including music, dance, drawing, and
+                inter-house competitions, supports holistic development. Our
+                disciplined and inclusive environment encourages students to
+                excel both
                 academically and personally. With over three decades of trust
                 and commitment, Doon Vale continues to be a preferred choice for
                 parents seeking a well-rounded education for their children. We

@@ -32,7 +32,7 @@ function Admission() {
                 ADMISSION INFORMATION
               </h1>
               <p className="max-w-2xl mb-6  text-black lg:mb-8 md:text-lg lg:text-[15px] text-justify">
-                We welcome new admissions from Pre-Nursery to Class VIII for the
+                We welcome new admissions from Pre-Nursery to Class X for the
                 upcoming academic session. At Shri Guru Nanak Doon Vale School,
                 our admission process is simple, transparent, and designed to
                 ensure a smooth transition for both students and parents.

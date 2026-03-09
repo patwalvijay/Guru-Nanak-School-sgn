@@ -87,7 +87,8 @@ const Mission = () => {
                   a balanced and inclusive education that fosters academic
                   excellence, creativity, emotional well-being, and ethical
                   values. We strive to create an environment that inspires
-                  students from Class 1 to 8 to discover their potential, think
+                  students from Class 1 to Class 10 to discover their
+                  potential, think
                   independently, and act with integrity in a rapidly evolving
                   world.
                 </p>

@@ -84,7 +84,7 @@ const SchoolStructure = () => {
               <p className="text-lg text-gray-700 leading-relaxed max-w-4xl mx-auto">
                 Shri Guru Nanak Doon Vale School follows a structured and
                 student-centric academic model that caters to the overall growth
-                and development of children from Pre-Nursery to Class VIII. As a
+                and development of children from Pre-Nursery to Class X. As a
                 co-educational school in Dehradun, we ensure an inclusive and
                 equal environment for all students.
               </p>
