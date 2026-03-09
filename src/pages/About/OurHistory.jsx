@@ -29,56 +29,54 @@ const OurHistory = () => {
                 A Legacy of Excellence
               </p>
               <p className="text-lg leading-relaxed ">
-                Shri Guru Nanak Public school a society formed in 1946 with a
-                strong desire to provide accessible, value-based education in
-                Dehradun. Beside S.G.N Doon Vale school the socicty is running
-                two Goverment aided school in Dehradun since 1946 namely shri
-                Guru Nanak Boys Inter College chukkuwala, Dehradun and Shri Guru
-                Nanak Mahila Inter collage Khurbura Dehradun. Both the school
-                are managed as per the provision of the scheme administration
-                approved by the Education department. The site chosen was
-                undeveloped, yet brimming with hope and potential. With no grand
-                structures in place, just the noble intention to serve the
-                community, the journey of building the school began. The
-                foundation of this esteemed institution was laid on 16th July
-                1989, when a humble dream took shape. It was on this very date
-                that the first brick was placed on the land
+                Shri Guru Nanak Public School is a society formed in 1946 with
+                a strong desire to provide accessible, value-based education in
+                Dehradun. Besides S.G.N. Doon Vale School, the society has been
+                running two government-aided schools in Dehradun since 1946:
+                Shri Guru Nanak Boys Inter College (Chukkuwala) and Shri Guru
+                Nanak Mahila Inter College (Khurbura). Both schools are managed
+                according to the provisions of the scheme of administration
+                approved by the Education Department.
               </p>
 
               <p className="text-lg leading-relaxed">
-                After four years of committed effort, the dream finally took
-                concrete shape. On 4th July 1993, Shri Guru Nanak Doon Vale
-                School opened its doors to students for the very first time.
-                What began as a modest institution started its academic journey
-                with limited resources but limitless hope. The opening was
-                marked with simplicity, but the occasion held profound
-                significance for the community. Parents, teachers, and
-                volunteers saw in this school a new opportunity for future
+                The site chosen for Shri Guru Nanak Doon Vale school was
+                initially undeveloped, yet brimming with hope and potential.
+                With no grand structures in place—only a noble intention to
+                serve the community—the journey began. The foundation of this
+                esteemed institution was laid on 16th July 1989, the day the
+                first brick was placed on the land.
+              </p>
+
+              <p className="text-lg leading-relaxed">
+                After four years of committed effort, the dream took concrete
+                shape. On 4th July 1993, Shri Guru Nanak Doon Vale School
+                opened its doors to students for the first time. What began as
+                a modest institution started its academic journey with limited
+                resources but limitless hope. The opening was simple, yet held
+                profound significance for the community; parents, teachers, and
+                volunteers saw it as a new opportunity for future generations.
+              </p>
+
+              <p className="text-lg leading-relaxed">
+                Today, that humble institution has evolved into one of the best
+                schools in Dehradun, widely recognized for its consistent
+                academic results, progressive teaching methods, and strong moral
+                foundation. Over the years, S.G.N. Doon Vale School has
+                educated thousands of students, shaping them into responsible,
+                confident, and capable individuals.
+              </p>
+
+              <p className="text-lg leading-relaxed">
+                With over three decades of experience, our school continues to
+                uphold its founding vision: offering quality, value-based
+                education that empowers students to succeed not just in
+                academics, but in life. As a trusted co-educational school in
+                Dehradun, we remain committed to evolving with the times while
+                preserving the values that define our legacy. Our history is
+                more than just a timeline—it is a living story of passion,
+                perseverance, and progress that continues to inspire
                 generations.
-              </p>
-
-              <p className="text-lg leading-relaxed">
-                What began as a humble institution has now evolved into one of
-                the best schools in Dehradun, widely recognised for its
-                consistent academic results, progressive teaching methods, and
-                strong moral foundation. Over the years, S.G.N. Doon Vale School
-                has educated thousands of students, shaping them into
-                responsible, confident, and capable individuals.
-              </p>
-
-              <p className="text-lg leading-relaxed">
-                With over three decades of experience in education, our school
-                continues to uphold its founding vision—offering quality,
-                value-based education that empowers students to succeed not just
-                in academics, but in life.
-              </p>
-
-              <p className="text-lg leading-relaxed">
-                As a trusted co-educational school in Dehradun, we remain
-                committed to evolving with time while preserving the values that
-                define our legacy. Our history is not just a timeline—it is a
-                living story of passion, perseverance, and progress that
-                continues to inspire generations.
               </p>
             </div>
           </section>
