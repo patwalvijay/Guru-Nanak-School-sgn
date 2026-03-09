@@ -22,7 +22,7 @@ function Studentlife() {
             Shri Guru Nanak Doon Vale School student life is designed to be dynamic, balanced, and enriching. We believe that school should be more than just academics—it should be a place where students discover who they are, build lasting friendships, and grow into well-rounded individuals.
 <br/>
 <br/>
-Our students from <strong>Pre-Nursery to Class X</strong> experience a safe, supportive, and inclusive environment where learning is joyful and meaningful. With a strong focus on values, discipline, and responsibility, we ensure that every child feels seen, heard, and respected
+Our students from <strong>Nursery to Class X</strong> experience a safe, supportive, and inclusive environment where learning is joyful and meaningful. With a strong focus on values, discipline, and responsibility, we ensure that every child feels seen, heard, and respected
 <br/>
 <br/>
 Daily routines include classroom learning, co-curricular activities, and moral instruction. We encourage students to take part in <strong>inter-house competitions</strong>, storytelling, drawing, poetry, and role plays to build creativity and confidence. Events like <strong>Annual Day</strong>, cultural functions, and celebration of national festivals make school life vibrant and memorable.

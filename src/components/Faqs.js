@@ -24,7 +24,7 @@ export default function Faqs() {
                   />
                 </Disclosure.Button>
                 <Disclosure.Panel className="px-4 pt-2 pb-4 text-sm text-white bg-[#FFA700] ">
-                  We offer structured education from Pre-Nursery to Class X
+                  We offer structured education from Nursery to Class X
                   in a co-educational environment.
                 </Disclosure.Panel>
               </>
@@ -44,9 +44,9 @@ export default function Faqs() {
                 </Disclosure.Button>
                 <Disclosure.Panel className="px-4 pt-4 pb-4 text-sm text-white bg-[#FFA700] ">
                   <h1 className=" font-bold">
-                    No, Shri Guru Nanak Doon Vale School isn't affiliated with
-                    CBSE, yet it ensures quality education through its own
-                    enriched academic program.
+                    Yes, Shri Guru Nanak Doon Vale School is affiliated with
+                    CBSE and follows a structured academic program focused on
+                    quality education.
                   </h1>
                   {/* <ul className="list-decimal mx-8">
                   <li>Fill out a registration form.</li>

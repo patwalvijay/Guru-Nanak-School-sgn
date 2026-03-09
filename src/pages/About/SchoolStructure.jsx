@@ -8,7 +8,7 @@ const SchoolStructure = () => {
     {
       icon: Palette,
       title: "Pre-Primary Wing",
-      subtitle: "(Pre-Nursery, L.K.G., U.K.G.)",
+      subtitle: "(Nursery, L.K.G., U.K.G.)",
       description:
         "A joyful and nurturing space where children are introduced to foundational learning through play, storytelling, rhymes, drawing, and basic literacy/numeracy skills.",
     },
@@ -21,10 +21,10 @@ const SchoolStructure = () => {
     },
     {
       icon: Users,
-      title: "Middle Wing",
-      subtitle: "(Class VI to VIII)",
+      title: "Middle & Secondary Wing",
+      subtitle: "(Class VI to X)",
       description:
-        "Prepares students for senior-level learning with specialised subject teachers, activity-based learning, life skills, and exposure to broader curricular areas like science, environment, languages, and mathematics.",
+        "Prepares students for middle and senior-level learning with specialised subject teachers, activity-based learning, life skills, and exposure to broader curricular areas like science, environment, languages, and mathematics.",
     },
   ];
 
@@ -84,7 +84,7 @@ const SchoolStructure = () => {
               <p className="text-lg text-gray-700 leading-relaxed max-w-4xl mx-auto">
                 Shri Guru Nanak Doon Vale School follows a structured and
                 student-centric academic model that caters to the overall growth
-                and development of children from Pre-Nursery to Class X. As a
+                and development of children from Nursery to Class X. As a
                 co-educational school in Dehradun, we ensure an inclusive and
                 equal environment for all students.
               </p>

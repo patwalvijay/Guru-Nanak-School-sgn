@@ -23,7 +23,7 @@ const ApplicationForm = () => {
                   Admission Form – Shri Guru Nanak Doon Vale School Thank you
                   for your interest in Shri Guru Nanak Doon Vale School, one of
                   the best co-educational schools in Dehradun. We are pleased to
-                  invite applications for Pre-Nursery to Class X for the
+                  invite applications for Nursery to Class X for the
                   upcoming academic year. Before filling out the admission form,
                   please ensure you have the following documents:
                 </p>

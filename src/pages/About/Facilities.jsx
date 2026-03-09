@@ -188,7 +188,7 @@ const Facilities = () => {
                     <Clock className="w-5 h-5 text-[#990000] mr-3 flex-shrink-0 mt-0.5" />
                     <p>
                       Clearly structured summer and winter timings for all
-                      sections from Pre-Nursery to Class X.
+                      sections from Nursery to Class X.
                     </p>
                   </div>
                   <div className="flex items-start">

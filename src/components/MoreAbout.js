@@ -126,7 +126,7 @@ MAYO COLLEGE GIRLS’ SCHOOL */}
               1993. With a legacy of academic excellence and holistic
               development, we are dedicated to nurturing confident, responsible,
               and well-rounded individuals. Our school offers structured
-              education from Pre-Nursery to Class X, blending modern teaching
+              education from Nursery to Class X, blending modern teaching
               methods with strong values and discipline. At S.G.N. Doon Vale,
               learning goes beyond the classroom, with a focus on creativity,
               leadership, and moral growth. Students thrive in a safe and inclusive
