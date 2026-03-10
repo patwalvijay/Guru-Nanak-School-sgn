@@ -53,11 +53,16 @@ function Navbar() {
           <div className="justify-between px-4 mx-auto  lg:max-w-7xl md:items-center md:flex md:px-8   ">
             <div className="flex md:block justify-between">
               <Link to="/">
-                <div className="flex items-center  justify-between py-3 md:py-3 gap-4">
+                <div className="flex items-center justify-between py-3 md:py-3 gap-4">
                   <img className="w-12 aspect-square" src="/image/logo.jpg" />
-                  <p className="text-2xl font-medium text-white hidden md:block">
-                    Shri Guru Nanak Doon Vale School
-                  </p>
+                  <div className="hidden md:block">
+                    <p className="text-2xl font-medium text-white leading-tight">
+                      Shri Guru Nanak Doon Vale School
+                    </p>
+                    <p className="text-xs text-gray-200 mt-1 tracking-wide">
+                      (Affiliated to CBSE New Delhi)
+                    </p>
+                  </div>
                 </div>
               </Link>
               <div className="md:hidden flex item-center">

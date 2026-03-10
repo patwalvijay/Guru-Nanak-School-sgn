@@ -42,7 +42,7 @@ const Infrastructure = () => {
         <main className="max-w-6xl mx-auto px-4 py-12 space-y-16 flex-1">
           {/* Text Left - Image Right */}
           <div className="flex flex-col md:flex-row items-center gap-8">
-            <div className="flex-1 text-gray-700 leading-relaxed">
+            <div className="flex-1 text-gray-700 leading-relaxed text-justify">
               <p>
                 The Computer Lab at our institution is a modern,
                 technology-driven space designed to empower students with the
@@ -79,7 +79,7 @@ const Infrastructure = () => {
 
           {/* Image Left - Text Right */}
           <div className="flex flex-col md:flex-row-reverse items-center gap-8">
-            <div className="flex-1 text-gray-700 leading-relaxed">
+            <div className="flex-1 text-gray-700 leading-relaxed text-justify">
               <p>
                 The Library of our institution is a vibrant center of knowledge,
                 learning, and intellectual growth. Spacious, well-lit, and
@@ -117,7 +117,7 @@ const Infrastructure = () => {
 
           {/* Text Left - Image Right */}
           <div className="flex flex-col md:flex-row items-center gap-8">
-            <div className="flex-1 text-gray-700 leading-relaxed">
+            <div className="flex-1 text-gray-700 leading-relaxed text-justify">
               <p>
                 The infrastructure of Shri Guru Nanak Doon Vale School is
                 thoughtfully designed to create a safe, stimulating, and
@@ -151,7 +151,7 @@ const Infrastructure = () => {
             </div>
           </div>
           <div className="flex flex-col md:flex-row-reverse items-center gap-8">
-            <div className="flex-1 text-gray-700 leading-relaxed">
+            <div className="flex-1 text-gray-700 leading-relaxed text-justify">
               <p>
                 The Science Laboratory at our institution is a dedicated space
                 designed to ignite curiosity, encourage experimentation, and
@@ -189,7 +189,7 @@ const Infrastructure = () => {
 
           {/* NEW SECTION - Playground & Sports Facilities */}
           <div className="flex flex-col md:flex-row items-center gap-8">
-            <div className="flex-1 text-gray-700 leading-relaxed">
+            <div className="flex-1 text-gray-700 leading-relaxed text-justify">
               <p>
                 The Sports and Physical Education facilities at our school are
                 designed to promote health, fitness, discipline, and team spirit

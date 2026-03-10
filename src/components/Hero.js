@@ -34,8 +34,8 @@ function Hero() {
                 }}
               >
                 <form
-                  class="kwes-form"
-                  action="https://kwesforms.com/api/f/YsBkMXOaxHWF8u7SQPnS"
+                  className="kf-form"
+                  action="https://kwesforms.com/api/f/S5BuRxID42gcSZxuKGG6"
                   method="POST"
                 >
                   <div className=" text-center">
@@ -55,7 +55,7 @@ function Hero() {
                     <input
                       type="hidden"
                       name="_next"
-                      value="https://mayogirlssadmission.com/thanks"
+                      value="https://sgndoonvaleschool.com/thanks"
                     />
                   </div>
                   <div className="mb-6">
