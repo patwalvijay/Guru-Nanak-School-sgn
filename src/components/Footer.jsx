@@ -30,7 +30,7 @@ const Footer = () => {
   const admissionLinks = [
     { title: "Admission", link: "/admission" },
     // { title: "Application Form", link: "/admission-form" },
-    { title: "Fees Rules & Regulations", link: "/fees-rules-regulations" },
+    { title: "Fees Rules & Regulations", link: "/fees-rules-ragulations" },
     { title: "TC Form", link: "/tc-form" },
     // { title: "School Calender", link: "/school-calender" },
     { title: "Withdrawal Policy", link: "/withdrawalpolicy" },

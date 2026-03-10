@@ -292,11 +292,11 @@ const Mandatory = () => {
                       <td className="border px-4 py-2">
                         <a
                           className="text-blue-700"
-                          href="/pdf/View-Affiliation-Letter.pdf"
-                          target="_blank"
+                          href="/pdf/Affiliation-Letter-1.pdf"
+                          download="Affiliation-Letter-1.pdf"
                           rel="noopener noreferrer"
                         >
-                          View Affiliation Letter
+                          Download Affiliation Letter
                         </a>
                       </td>
                     </tr>
@@ -309,11 +309,11 @@ const Mandatory = () => {
                       <td className="border px-4 py-2">
                         <a
                           className="text-blue-700"
-                          href="/pdf/View-Registration-Cert.pdf"
-                          target="_blank"
+                          href="/pdf/Society-Registration-Renewed.pdf"
+                          download="Society-Registration-Renewed.pdf"
                           rel="noopener noreferrer"
                         >
-                          View Registration Cert.
+                          Download Registration Cert.
                         </a>
                       </td>
                     </tr>

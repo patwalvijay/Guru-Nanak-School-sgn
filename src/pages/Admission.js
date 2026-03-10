@@ -50,6 +50,18 @@ function Admission() {
               <div className="mt-5">
                 <a
                   className="text-blue-700 "
+                  href="/pdf/Admission-Form.pdf"
+                  download="Admission-Form.pdf"
+                  rel=""
+                >
+                  <button className="inline-flex items-center gap-2 bg-[#990000] text-white font-semibold px-5 py-2 rounded-lg shadow hover:opacity-90 transition-opacity duration-150">
+                    Download Admission Form
+                  </button>
+                </a>
+              </div>
+              <div className="mt-5">
+                <a
+                  className="text-blue-700 "
                   href="/pdf/view-Information-regarding-School-fees.pdf"
                   target="_blank"
                   rel=""

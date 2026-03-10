@@ -44,8 +44,8 @@ const TcForm = () => {
                 <div className="pt-4 ">
                   <a
                     className="text-blue-700"
-                    href="/pdf/View-TC.pdf"
-                    target="_blank"
+                    href="/pdf/Transfer-Certificate.pdf"
+                    download="Transfer-Certificate.pdf"
                     rel=""
                   >
                     <button className="inline-flex items-center gap-2 bg-[#990000] text-white font-semibold px-5 py-2 rounded-lg shadow hover:opacity-90 transition-opacity duration-150">
