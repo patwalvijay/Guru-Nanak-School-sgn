@@ -7,7 +7,7 @@ const FeesRules = () => {
     <>
       <Layout>
         <div>
-          <Hero title={"Fees Rules & Ragulations"} icon={" "} />
+          <Hero title={"Fees Rules & Regulations"} icon={" "} />
           <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
             {/* Message Content */}
             <div className="prose prose-lg max-w-none">

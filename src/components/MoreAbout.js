@@ -9,10 +9,10 @@ function MoreAbout() {
             {/*<span> KNOW MORE ABOUT</span> 
 MAYO COLLEGE GIRLS’ SCHOOL */}
             <h1 className="title-font sm:text-xl text-[20px] md:text-4xl mb-4 font-bold text-left mb-3">
-              <span className="text-[#03001B]"> Afilated to C.B.S.E</span>{" "}
-              <span className="text-[#03001B]"> KNOW MORE ABOUT</span>
-              <br className=" lg:inline-block" />
               <span className="text-white">S.G.N DOON VALE SCHOOL</span>
+
+              <br className=" lg:inline-block" />
+              <span className="text-[#03001B]"> KNOW MORE ABOUT</span>
             </h1>
             <div className="flex items-center mb-5">
               <svg
@@ -141,9 +141,9 @@ MAYO COLLEGE GIRLS’ SCHOOL */}
               one student at a time.
             </p>
             <div className="md:flex md:justify-center  ">
-              <button className=" image1  text-white bg-[#FFA700] border-0 py-2 px-6 focus:outline-none  rounded text-lg">
+              {/* <button className=" image1  text-white bg-[#FFA700] border-0 py-2 px-6 focus:outline-none  rounded text-lg">
                 Read More
-              </button>
+              </button> */}
               <img
                 className=" image2 moreabout object-cover object-center rounded"
                 alt="hero"
@@ -157,9 +157,9 @@ MAYO COLLEGE GIRLS’ SCHOOL */}
               alt="hero"
               src="img/school_Vertical_2.JPG"
             />
-            <button className=" image2 relative right-[24px] text-white bg-[#FFA700] border-0 py-2 px-6 focus:outline-none  rounded text-lg">
+            {/* <button className=" image2 relative right-[24px] text-white bg-[#FFA700] border-0 py-2 px-6 focus:outline-none  rounded text-lg">
               Read More
-            </button>
+            </button> */}
           </div>
         </div>
       </section>

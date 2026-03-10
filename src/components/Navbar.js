@@ -36,7 +36,7 @@ function Navbar() {
   const admissionMenu = [
     { title: "Admission", link: "/admission" },
     // { title: "Application Form", link: "/admission-form" },
-    { title: "Fees Rules & Ragulations", link: "/fees-rules-ragulations" },
+    { title: "Fees Rules & Regulations", link: "/fees-rules-ragulations" },
     { title: "TC Form", link: "/tc-form" },
     { title: "School Calender", link: "/school-calender" },
     /*{ title: "About Tradition", link: "/abouttradition" },*/
