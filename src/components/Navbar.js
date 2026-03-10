@@ -146,7 +146,7 @@ function Navbar() {
                                         active
                                           ? " text-[#FFA700]"
                                           : "text-black",
-                                        "block px-4 py-2 text-sm"
+                                        "block px-4 py-2 text-sm",
                                       )}
                                     >
                                       {item?.title}
@@ -194,7 +194,7 @@ function Navbar() {
                                         active
                                           ? " text-[#FFA700]"
                                           : "text-black",
-                                        "block px-4 py-2 text-sm"
+                                        "block px-4 py-2 text-sm",
                                       )}
                                     >
                                       {item?.title}
@@ -242,7 +242,7 @@ function Navbar() {
                                         active
                                           ? " text-[#FFA700]"
                                           : "text-black",
-                                        "block px-4 py-2 text-sm"
+                                        "block px-4 py-2 text-sm",
                                       )}
                                     >
                                       {item?.title}

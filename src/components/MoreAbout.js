@@ -9,7 +9,7 @@ function MoreAbout() {
             {/*<span> KNOW MORE ABOUT</span> 
 MAYO COLLEGE GIRLS’ SCHOOL */}
             <h1 className="title-font sm:text-xl text-[20px] md:text-4xl mb-4 font-bold text-left mb-3">
-              {" "}
+              <span className="text-[#03001B]"> Afilated to C.B.S.E</span>{" "}
               <span className="text-[#03001B]"> KNOW MORE ABOUT</span>
               <br className=" lg:inline-block" />
               <span className="text-white">S.G.N DOON VALE SCHOOL</span>
@@ -129,16 +129,16 @@ MAYO COLLEGE GIRLS’ SCHOOL */}
               education from Nursery to Class X, blending modern teaching
               methods with strong values and discipline. At S.G.N. Doon Vale,
               learning goes beyond the classroom, with a focus on creativity,
-              leadership, and moral growth. Students thrive in a safe and inclusive
-              environment, supported by experienced educators and a vibrant
-              house system that encourages healthy competition and teamwork.
-              From engaging classroom sessions to enriching cultural activities,
-              we ensure every child gets opportunities to grow and shine.
-              Located in the heart of the city, we are committed to providing
-              quality education at accessible standards. If you're searching for
-              the best school in Dehradun, we welcome you to visit our campus
-              and experience the difference. Building bright futures, one
-              student at a time.
+              leadership, and moral growth. Students thrive in a safe and
+              inclusive environment, supported by experienced educators and a
+              vibrant house system that encourages healthy competition and
+              teamwork. From engaging classroom sessions to enriching cultural
+              activities, we ensure every child gets opportunities to grow and
+              shine. Located in the heart of the city, we are committed to
+              providing quality education at accessible standards. If you're
+              searching for the best school in Dehradun, we welcome you to visit
+              our campus and experience the difference. Building bright futures,
+              one student at a time.
             </p>
             <div className="md:flex md:justify-center  ">
               <button className=" image1  text-white bg-[#FFA700] border-0 py-2 px-6 focus:outline-none  rounded text-lg">

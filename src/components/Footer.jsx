@@ -32,7 +32,7 @@ const Footer = () => {
     // { title: "Application Form", link: "/admission-form" },
     { title: "Fees Rules & Regulations", link: "/fees-rules-regulations" },
     { title: "TC Form", link: "/tc-form" },
-    { title: "School Calender", link: "/school-calender" },
+    // { title: "School Calender", link: "/school-calender" },
     { title: "Withdrawal Policy", link: "/withdrawalpolicy" },
   ];
 
@@ -54,7 +54,8 @@ const Footer = () => {
                 <img className="h-14" src="/image/logo.jpg" />
               </div>
               <h3 className="text-xl font-bold mb-4">
-                Shri Guru Nanak Doon Vale School
+                Shri Guru Nanak Doon Vale School <br />
+                <span className="text-sm"> (Affiliated to CBSE New Delhi)</span>
               </h3>
               <p className="text-gray-200 mb-4 leading-relaxed">
                 Established in 1993, providing quality education for over three

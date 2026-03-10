@@ -13,7 +13,10 @@ function Hero() {
                   SHRI GURU NANAK DOON VALE
                   <br className="hidden lg:inline-block" /> SCHOOL
                 </h1>
-                <p className="mb-8 leading-relaxed text-white text-2xl text-left">
+                <p className=" leading-relaxed text-white text-2xl text-left">
+                  Affiliated to CBSE(New Delhi)
+                </p>
+                <p className=" leading-relaxed text-white text-2xl text-left">
                   Know about S.G.N Doon Vale School
                 </p>
                 <Link to="/our-history">
