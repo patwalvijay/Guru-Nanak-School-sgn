@@ -203,13 +203,13 @@ const Footer = () => {
                 </h5>
                 <div className="flex space-x-4 justify-center md:justify-start">
                   <a
-                    href="#"
+                    href="https://www.facebook.com/share/1J28ZkTgpJ/?mibextid=wwXIfr"
                     className="hover:text-[#FFA700] transition-colors"
                   >
                     <Facebook className="w-6 h-6" />
                   </a>
                   <a
-                    href="#"
+                    href="https://www.instagram.com/sgnschool555?igsh=ajV2bDQ1eHIxMDRy"
                     className="hover:text-[#FFA700] transition-colors"
                   >
                     <Instagram className="w-6 h-6" />
